@@ -1,5 +1,6 @@
 
-<img src="./Hello,.pdf"> </img>
+<img src="https://raw.githubusercontent.com/KeshawnSharper/KeshawnSharper/master/Hello,.pdf" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+</img>
 <!--
 **KeshawnSharper/KeshawnSharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
