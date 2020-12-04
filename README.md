@@ -1,6 +1,5 @@
-<P>
-  <img src="https://www.canva.com/design/DAEPYUnypH0/O_eKYB1XP9NhautM4VEhAw/view?utm_content=DAEPYUnypH0&utm_campaign=designshare&utm_medium=link&utm_source=viewer"></img>
-  </p>
+
+  <img src="./Banner.png"></img>
 
 <!--
 **KeshawnSharper/KeshawnSharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
