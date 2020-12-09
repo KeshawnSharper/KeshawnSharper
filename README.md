@@ -1,7 +1,7 @@
 ## Hello I'm Keshawn, 👋 💻
   <img src="./Banner.gif"></img>
   
- Hi, I’m Keshawn. I am a full stack web developer with a particular interest in front-end development. My specialties include Javascript, AngularJs, SASS, React and Redux, Jest, and Less. After multiple years spent collaborating, building, and swotting projects in web applications I’ve developed strong creative problem-solving, organizational, and communication skills. I am interested in combining those skills with web technologies to help build engaging and cutting-edge projects. If I'm not programming, I'm likely reading or playing basketball. If you’d like to know more, feel free to get in touch! 
+ Hi, I’m Keshawn. I am a Full stack web developer with a particular interest in front-end development. My specialties include Javascript, AngularJs, SASS, React and Redux, Jest, and Less. After multiple years spent collaborating, building, and swotting projects in web applications I’ve developed strong creative problem-solving, organizational, and communication skills. 
 <!--
 **KeshawnSharper/KeshawnSharper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
